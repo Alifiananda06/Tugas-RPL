@@ -21,12 +21,13 @@ Tujuan: Perancangan Sistem Informasi Penjualan Buku Pada Toko Buku FiBook Berbas
 
 1. Activity Diagram Admin Mengolah Data Buku
 
-![image](https://github.com/Alifiananda06/Tugas-RPL/assets/115884834/07e34647-484a-4c4a-98ae-72969e549427)
+![Screenshot 2023-10-15 212859](https://github.com/Alifiananda06/Tugas-RPL/assets/115884834/bf23fe1e-ff06-493c-a355-a8915818f72e)
 
 
 2. Activity Diagram Pembeli Melihat Website
 
-![image](https://github.com/Alifiananda06/Tugas-RPL/assets/115884834/51e0e21e-7a7d-4de6-a0cd-18278fede757)
+![Screenshot 2023-10-15 223608](https://github.com/Alifiananda06/Tugas-RPL/assets/115884834/4694c04e-2a25-4553-b707-a34984daecca)
+
 
 
 # Sequence 
