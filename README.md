@@ -6,6 +6,8 @@ Kelas: TI.22.A2
 
 # Membuat Projek, Analisa, Usecase Diagram, Activity Diagram, dan Squence Diagram
 
+# PERANCANGAN SISTEM INFORMASI PENJUALAN BUKU ONLINE PADA TOKO BUKU FIBOOK
+
 # Analisa
 
 Tujuan: Perancangan Sistem Informasi Penjualan Buku Pada Toko Buku FiBook Berbasis Web ini dibangun untuk mempermudah Pimpinan Toko Buku FiBook untuk mengolah data yang masuk kapanpun dari proses transaksi penjualan, memudahkan admin untuk melakukan proses pembayaran pelanggan yang membeli langsung di Toko Buku FiBook serta memudahkan pelanggan untuk melakukan pembelian secara online. Perancangan Sistem informasi pada bagian pelanggan ini memiliki menu home, produk kami, keranjang, login. Pada bagian admin memiliki menu home, input buku, riwayat pembelian, riwayat pemesanan, dan logout, pada halaman kasir hanya ada menu logout.
